@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.2.2'
 gem 'pg', '~> 0.18'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'jbuilder', '~> 2.5'
 gem 'rack-cors'
 gem 'active_model_serializers'
